@@ -1,0 +1,19 @@
+{
+  "name": "experiments_in_motion_graphics",
+  "version": "1.0.0",
+  "description": "Recreating Vintage Computer Art with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev001hajipro/experiments_in_motion_graphics"
+  },
+  "author": "dev001hajipro",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
